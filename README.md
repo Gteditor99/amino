@@ -30,6 +30,10 @@ personal oh-my-zsh theme
 - Git branch and status indicators (staged/unstaged changes)
 - Terminal title showing folder, root status, and shell
 
+## Requirements
+
+This theme uses Nerd Font icons for the best visual experience. Install a [Nerd Font](https://www.nerdfonts.com/) and configure your terminal to use it.
+
 ## Contribution
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository: https://github.com/gteditor99/amino
